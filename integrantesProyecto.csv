@@ -1,4 +1,4 @@
-idProyecto, apellidoNombre, dni, categoriaInvestigacion, rol
+idProyecto;apellidoNombre;dni;categoriaInvestigacion;rol
 21E239;Castro Jorge;17422111;II;director
 21E442;Mignoni Norma;18206741;III;integrante
 21E442;Amarfil Maria Luisa;11435699;IV;integrante
